@@ -95,7 +95,7 @@ function handleMouseMove(event)
 		{
 			imageOffset = -150;
 		}
-		else if(angle<=247.5 && angle<292.5)
+		else if(angle>=247.5 && angle<292.5)
 		{
 			imageOffset = -200;
 		}
